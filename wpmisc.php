@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Oval Media
+ * Plugin Name: MP Misc
  * Description: Diverse Modifikationen
  * Version: 0.1
  * Author: Ole Hornauer
